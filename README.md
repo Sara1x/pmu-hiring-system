@@ -19,7 +19,4 @@ This system provides a structured workflow for managing academic recruitment, en
 - JavaScript
 - Vite
 
-## 🖥️ Screenshots
-*(Add your UI screenshots here)*
-
 ## 📂 Project Structure
