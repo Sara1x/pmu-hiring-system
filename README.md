@@ -34,10 +34,10 @@ src/
 
 
 ## ⚙️ Installation
-
+```
 npm install
 npm run dev
-
+```
 
 ## 👩‍💻 Author
 Sarah Alshammari
