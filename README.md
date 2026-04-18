@@ -21,12 +21,16 @@ The system provides a structured workflow for managing academic recruitment at P
 
 ## 📂 Project Structure
 
+
+```
 src/
 ├── components/
 ├── pages/
 ├── assets/
 ├── App.tsx
 └── main.tsx
+```
+
 
 
 ## ⚙️ Installation
