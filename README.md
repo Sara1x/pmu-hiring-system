@@ -1,16 +1,16 @@
 # PMU Academic Hiring Management System
 
-A role-based web application designed to streamline and automate the academic hiring process within universities.
+A role-based web application developed to streamline and automate the academic hiring process at Prince Mohammad Bin Fahd University (PMU).
 
 ## 🚀 Overview
-This system provides a structured workflow for managing academic recruitment, enabling different user roles to interact with the system efficiently through dedicated dashboards.
+The system provides a structured workflow for managing academic recruitment at PMU, enabling different stakeholders to interact efficiently through dedicated dashboards based on their roles.
 
 ## 🎯 Features
-- Role-based access (Dean, HR Manager, Department Chair, Interviewer)
-- Secure login interface for each role
-- Dedicated dashboards for each user type
-- Clean and modern user interface
-- Responsive design for different screen sizes
+- Role-based access control (Dean, HR Manager, Department Chair, Interviewer)
+- Secure login interface tailored to each role
+- Dedicated dashboards for different user types
+- Clean, modern, and user-friendly interface
+- Responsive design for multiple screen sizes
 
 ## 🛠️ Tech Stack
 - React
@@ -20,3 +20,20 @@ This system provides a structured workflow for managing academic recruitment, en
 - Vite
 
 ## 📂 Project Structure
+
+src/
+├── components/
+├── pages/
+├── assets/
+├── App.tsx
+└── main.tsx
+
+
+## ⚙️ Installation
+
+npm install
+npm run dev
+
+
+## 👩‍💻 Author
+Sarah Alshammari
